@@ -1,2 +1,2 @@
 # TECHPLACEMENT
-internship tasks
+internship
