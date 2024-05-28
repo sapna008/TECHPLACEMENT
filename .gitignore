@@ -3,7 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.html 
-
+/task2/projvenv
+/task2/Fruits_Vegetables
 # C extensions
 *.so
 
